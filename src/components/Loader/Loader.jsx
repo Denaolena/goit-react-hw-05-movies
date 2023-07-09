@@ -5,7 +5,7 @@ const Loader = () => {
     <Grid
       height="80"
       width="80"
-      color="#4fa94d"
+      color="rgb(214, 227, 75)"
       ariaLabel="grid-loading"
       radius="12.5"
       wrapperStyle={{
